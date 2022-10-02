@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/xvii_adrianc" target="blank"><img src="https://img.shields.io/twitter/follow/xvii_adrianc?logo=twitter&style=for-the-badge" alt="xvii_adrianc" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Advanced ReactJS design patterns.**
+- 🌱 I’m currently learning **Python and Advanced ReactJS design patterns with typescript.**
 
 - 💬 Ask me about **react, node, php...**
 
